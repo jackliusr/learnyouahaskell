@@ -1,4 +1,4 @@
-learnyouahaskell
+Learn You a Haskell for Great Good
 ================
 
-learnyouahaskell
+function script codes from Learn You a Haskell for Great Good
